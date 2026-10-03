@@ -1,6 +1,6 @@
 # Relation-Extraction-Project
 
-```markdown
+
 # Persian Relation Extraction & Knowledge Graph
 
 A Persian-language information extraction and knowledge graph system built with
