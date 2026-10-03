@@ -299,7 +299,3 @@ Use local configuration files or environment variables for sensitive values.
 This project is currently under development and is intended for research and
 experimental knowledge graph applications.
 ```
-
-این نسخه برای وضعیت فعلی پروژه‌ات مناسب‌تر از README قبلی است، چون ساختار واقعی repository را با دو پوشه `RE_Module` و `neo4j_module` در نظر گرفته است.
-
-بعداً هم هر زمان ساختار پروژه تغییر کرد، فقط `README.md` را باز می‌کنی، روی آیکن مداد **Edit this file** می‌زنی و نسخه جدید را Commit می‌کنی؛ لازم نیست README از همین الان کامل و نهاییِ دائمی باشد.
