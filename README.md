@@ -1,16 +1,4 @@
 # Relation-Extraction-Project
-الان که ساختار اصلی پروژه‌ات مشخص شده، بهتر است `README.md` را در **ریشه Repository** بگذاری؛ یعنی کنار این دو پوشه:
-
-```text
-Relation_Extraction/
-├── README.md
-├── RE_Module/
-└── neo4j_module/
-```
-
-با توجه به فایل‌هایی که از پروژه‌ات دیدم، `RE_Module` رابط Streamlit و استخراج موجودیت/رابطه را پوشش می‌دهد و بخش Neo4j نیز Ingestion، Text2Cypher و API پرسش‌وپاسخ را مدیریت می‌کند. رابط Streamlit هم دو بخش «استخراج روابط» و «پرسش و پاسخ» دارد. app app
-
-پیشنهاد می‌کنم فعلاً این README جمع‌وجور و منطبق با پروژه را بگذاری:
 
 ```markdown
 # Persian Relation Extraction & Knowledge Graph
